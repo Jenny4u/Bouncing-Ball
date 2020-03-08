@@ -13,7 +13,8 @@ Bouncing Ball代码的效果，第一印象就是环绕的行星，我开始想�
 静止是一切联结的终止，通过“学习方法”的指引，我观看了许多processing的视频，浏览了一些类似于CSDN的网站来建立联结，找到一些能让我的
 粒子像圆球一样动起来的方法。过程中也发现了很多别人创作的有趣的Bouncing Ball。
 ```
-[](https://blog.csdn.net/fddxsyf123/article/details/79741637?ops_request_misc=%7B%22request%5Fid%22%3A%22158356623519725222453351%22%2C%22scm%22%3A%2220140713.130056874..%22%7D&request_id=158356623519725222453351&biz_id=0&utm_source=distribute.pc_search_result.none-task)
+[](https://blog.csdn.net/fddxsyf123/article/details/79741637?ops_request_misc=%7B%22request%5Fid%22%3A%22158356623519725222453351%22%2C%22scm%22%3A%2220140713.130056874..
+%22%7D&request_id=158356623519725222453351&biz_id=0&utm_source=distribute.pc_search_result.none-task)
 
 ## 试错
 ```
